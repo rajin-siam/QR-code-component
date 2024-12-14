@@ -23,10 +23,10 @@ body{
 
 #qr-container {
     width: 320px;
-    height: 499px;
+    height: 550px;
     background-color: var(--white);
     border-radius: 20px ;
-    margin: 230.5px auto;
+    margin: 120px auto;
 }
 .qr-code-img {
     text-align: center;
@@ -38,7 +38,7 @@ body{
     border-radius: 10px;
 }
 
-h2{
+h1{
     text-align: center;
     padding: 0 1.3rem;
     color: var(--dark-blue);
