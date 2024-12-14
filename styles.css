@@ -22,14 +22,11 @@ body{
 }
 
 #qr-container {
-    width: 400px;
-    height: 550px;
+    width: 320px;
+    height: 499px;
     background-color: var(--white);
     border-radius: 20px ;
-    margin-top: 134px;
-    margin-bottom: 134px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 230.5px auto;
 }
 .qr-code-img {
     text-align: center;
